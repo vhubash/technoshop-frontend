@@ -20,7 +20,7 @@ import OrderListScreen from './screens/OrderListScreen'
 
 function App() {
   return (
-    <Router>
+    <Router basename='/index.html'>
       <Header />
       <main className="py-3">
         <Container>
