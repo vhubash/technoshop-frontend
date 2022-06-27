@@ -1,8 +1,7 @@
 {
-  "name": "frontend",
+  "name": "technoshop",
   "proxy": "https://technoshop-hubash.herokuapp.com",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://technoshop-frontend.vercel.app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
